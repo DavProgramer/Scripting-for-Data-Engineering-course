@@ -1,6 +1,4 @@
 # Scripting-for-Data-Engineering-course
-Scripting with Python and SQL for Data Engineering course
-
 This is a project for the Scripting with Python and SQL for Data Engineering course in Coursera:
 
 Build a notebook that reformats data into JSON
